@@ -11,6 +11,6 @@ This project is a Virtual Audio Amplifier Analyzer implemented with Matlab. This
 This documents contains all the information about the project:
 * [Main Classes of Audio Amplifiers](https://github.com/lauspace/Audiovisual-Project/blob/master/Documents/Audio%20Amplifiers%20Clases.pdf)
 * [Main Classes of Audio Amplifiers (Slides)](https://github.com/lauspace/Audiovisual-Project/blob/master/Documents/Audio%20Amplifiers%20Clases%20(Slides).pdf)
-* [Quality measures of Audio Amplifiers]()
+* [Quality Measures of Audio Amplifiers]()
 * [Requirements and Specifications](https://github.com/lauspace/Audiovisual-Project/blob/master/Documents/Requeriments%20and%20Specifications.pdf) 
 * [Project Plan]()
