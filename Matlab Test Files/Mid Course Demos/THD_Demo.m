@@ -14,6 +14,8 @@ x = sin(2*pi*n*(F/Fs))';         % Generació del sinus
 %% Generació del senyal de sortida A
 
 y1 = sin(2*pi*n*(F/Fs))' + sin(2*pi*n*(2*F/Fs))'; % Generació senyal de sortida A
+th=10*log10(1);
+th1=thd(y1);
 
 % figure(2)
 % plot(y1)
@@ -21,7 +23,8 @@ y1 = sin(2*pi*n*(F/Fs))' + sin(2*pi*n*(2*F/Fs))'; % Generació senyal de sortida 
 %% Generació del senyal de sortida B
 
 y2 = sin(2*pi*n*(F/Fs))' + 0.5*sin(2*pi*n*(2*F/Fs))'; % Generació senyal de sortida B
-
+th3=10*log10(0.5^2);
+th4=thd(y2);
 % figure(3)
 % plot(y2)
 
@@ -29,7 +32,8 @@ y2 = sin(2*pi*n*(F/Fs))' + 0.5*sin(2*pi*n*(2*F/Fs))'; % Generació senyal de sort
 %% Generació del senyal de sortida C
 
 y3 = sin(2*pi*n*(F/Fs))' + 0.75*sin(2*pi*n*(2*F/Fs))' + 0.5*sin(2*pi*n*(3*F/Fs))' + 0.25*sin(2*pi*n*(4*F/Fs))'; % Generació senyal de sortida B
-
+th5=10*log10(0.75^2+0.5^2+0.25^2);
+th6=thd(y3);
 % figure(4)
 % plot(y3)
 
