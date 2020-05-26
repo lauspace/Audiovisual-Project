@@ -7,7 +7,7 @@ This project is a Virtual Audio Amplifier Analyzer implemented with Matlab. This
 * [Total Harmonic Distortion (THD)](https://github.com/lauspace/Audiovisual-Project/blob/master/Src/Par%C3%A0metres%20finals%20(senyals%20reals)/THD.m)
 * [Total Harmonic Distortion and Noise (THD + N)](https://github.com/lauspace/Audiovisual-Project/blob/master/Src/Par%C3%A0metres%20finals%20(senyals%20reals)/THDN.m)
 * [Intermodulation Distortion (IMD)](https://github.com/lauspace/Audiovisual-Project/blob/master/Src/Par%C3%A0metres%20finals%20(senyals%20reals)/IMD.m)
-* [Distortion Factor (DF)](https://github.com/lauspace/Audiovisual-Project/blob/master/Src/Par%C3%A0metres%20finals%20(senyals%20reals)/DF.m}
+* [Distortion Factor (DF)](https://github.com/lauspace/Audiovisual-Project/blob/master/Src/Par%C3%A0metres%20finals%20(senyals%20reals)/DF.m)
 
 ## Documents
 This documents contains all the information about the project:
