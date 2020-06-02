@@ -16,6 +16,7 @@ This documents contains all the information about the project:
 * [Quality Measures of Audio Amplifiers](https://github.com/lauspace/Audiovisual-Project/blob/master/Documents/Quality%20Measures.pdf)
 * [Requirements and Specifications](https://github.com/lauspace/Audiovisual-Project/blob/master/Documents/Requeriments%20and%20Specifications.pdf) 
 * [Project Plan](https://github.com/lauspace/Audiovisual-Project/blob/master/Documents/Project%20Plan.pdf)
+* [Final Report](https://github.com/lauspace/Audiovisual-Project/blob/master/Documents/Final%20Report.pdf)
 
 Weekly reports can be found in [Reports](https://github.com/lauspace/Audiovisual-Project/blob/master/Reports) folder.
 
